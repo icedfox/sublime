@@ -1,0 +1,31 @@
+<snippet>
+    <content>
+<![CDATA[
+* 
+* This file is part of the _PROJECT_ project,
+* developed by Adneom for _CLIENT_
+*
+* $TM_FILENAME
+* author: $TM_FULLNAME
+* email: $TM_EMAIL
+* company: $TM_ORGANIZATION_NAME
+* version: 1.0
+*
+* Purpose:
+* ${1:Purpose of program}
+*
+* Usage:
+* ${2:How to use it}
+*
+* Copyright (c) 2017
+* ADNEOM Technologies
+* 251 Boulevard Pereire, 
+* 75852 Paris Cedex 17
+*
+**/
+]]>
+	</content>
+	<tabTrigger>watheader</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
+
