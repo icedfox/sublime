@@ -2,25 +2,19 @@
     <content>
 <![CDATA[
 * 
-* This file is part of the _PROJECT_ project,
-* developed by Adneom for _CLIENT_
+* This file is part of the We Are Tennis project developed by $TM_ORGANIZATION_NAME for BNP Paribas
 *
 * $TM_FILENAME
-* author: $TM_FULLNAME
-* email: $TM_EMAIL
-* company: $TM_ORGANIZATION_NAME
 * version: 1.0
+* author: $TM_FULLNAME <$TM_EMAIL>
+* company: $TM_ORGANIZATION_NAME
 *
-* Purpose:
-* ${1:Purpose of program}
+* Purpose: ${1:Purpose of program}
 *
-* Usage:
-* ${2:How to use it}
+* Usage: ${2:How to use it}
 *
-* Copyright (c) 2017
-* ADNEOM Technologies
-* 251 Boulevard Pereire, 
-* 75852 Paris Cedex 17
+* Copyright (c) 2017 ADNEOM Technologies
+* 251 Boulevard Pereire, 75852 Paris Cedex 17
 *
 **/
 ]]>
