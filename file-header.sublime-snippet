@@ -1,8 +1,6 @@
 <snippet>
     <content>
 <![CDATA[
-* 
-* This file is part of the We Are Tennis project developed by $TM_ORGANIZATION_NAME for BNP Paribas
 *
 * $TM_FILENAME
 * version: 1.0
@@ -15,7 +13,6 @@
 *
 * Copyright (c) 2017 ADNEOM Technologies
 * 251 Boulevard Pereire, 75852 Paris Cedex 17
-*
 **/
 ]]>
 	</content>

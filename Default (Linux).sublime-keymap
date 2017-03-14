@@ -2,6 +2,10 @@
 	{
         "keys": ["ctrl+alt+f"],
         "command": "insert_file_header",
-        "args": {"projectName": ""}
+		"args": {
+			"projectName": "Project",
+			"companyName": "Adneom",
+			"clientName": "Client"
+		}
     }
 ]
