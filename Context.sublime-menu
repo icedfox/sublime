@@ -1,0 +1,6 @@
+[
+	{
+		"caption": "Add file header",
+		"command": "insert_file_header"
+	}
+]
